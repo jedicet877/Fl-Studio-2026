@@ -1,4 +1,4 @@
-#FL Studio 2026 For MacOS
+# FL Studio 2026 For MacOS
 
 ## Introduction
 
